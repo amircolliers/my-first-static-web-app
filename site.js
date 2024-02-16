@@ -1,11 +1,14 @@
 // The base API Management URI
-const baseUri = "https://apim-hellow-world-amir.developer.azure-api.net";
+//const baseUri = "https://apim-hellow-world-amir.developer.azure-api.net/"
+const baseUri = "https://api-dev.mngenv019702.com";
 
 // The Microsoft Entra ID application registration client ID
-const clientId = "177d5f04-eee5-4021-9f67-3271821beb67";
+//const clientId = "177d5f04-eee5-4021-9f67-3271821beb67";
+const clientId = "d44a7db9-225b-4a49-9135-882dcca0d92b";
 
 // The Microsoft Entra ID tenant ID
-const tenantId = "b0240f2b-6ac3-4bcb-b517-505c44fb8c43";
+//const tenantId = "b0240f2b-6ac3-4bcb-b517-505c44fb8c43";
+const tenantId = "049e3382-8cdc-477b-9317-951b04689668"
 
 // The scope for the access token request to call the Microsoft Graph API
 // If a refresh token is also required for the application, add "offline_access" to the scope
