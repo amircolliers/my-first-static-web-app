@@ -1,6 +1,6 @@
 // The base API Management URI
 //const baseUri = "https://apim-hellow-world-amir.developer.azure-api.net/"
-const baseUri = "https://api-dev.mngenv019702.com";
+const baseUri = "https://api-mng-global.azure-api.net";
 
 // The Microsoft Entra ID application registration client ID
 //const clientId = "177d5f04-eee5-4021-9f67-3271821beb67";
