@@ -1,11 +1,11 @@
 // The base API Management URI
-const baseUri = "<REPLACE WITH YOUR API MANAGEMENT DOMAIN - e.g https://api.codeshed.dev>";
+const baseUri = "https://apim-hellow-world-amir.developer.azure-api.net";
 
 // The Microsoft Entra ID application registration client ID
-const clientId = "<REPLACE WITH YOUR MICROSOFT ENTRA ID APPLICATION ID>";
+const clientId = "177d5f04-eee5-4021-9f67-3271821beb67";
 
 // The Microsoft Entra ID tenant ID
-const tenantId = "<REPLACE WITH YOUR MICROSOFT ENTRA ID TENANT ID>";
+const tenantId = "b0240f2b-6ac3-4bcb-b517-505c44fb8c43";
 
 // The scope for the access token request to call the Microsoft Graph API
 // If a refresh token is also required for the application, add "offline_access" to the scope
